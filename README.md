@@ -1,6 +1,6 @@
 # ESP32 DHT11 Sensor Monitor
 
-A lightweight Serial interface for real-time temperature and humidity monitoring using an **ESP32**. This implementation falls under the **IoT & Low-Power** category of single-board computing, highlighting the use of specialized modules for environmental data collection.
+A lightweight Serial interface for real-time temperature and humidity monitoring using an **ESP32**. 
 
 ---
 
